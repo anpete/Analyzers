@@ -1,0 +1,12 @@
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers.Vsix\bin\Debug\tools\install.ps1
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers.Vsix\bin\Debug\tools\uninstall.ps1
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers.Vsix\bin\Debug\EFCore.Analyzers.vsix
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers.Vsix\bin\Debug\extension.vsixmanifest
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers.Vsix\bin\Debug\EFCore.Analyzers.dll
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers.Vsix\bin\Debug\System.Collections.Immutable.dll
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers.Vsix\bin\Debug\EFCore.Analyzers.pdb
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers.Vsix\obj\Debug\EFCore.Analyzers.Vsix.csprojResolveAssemblyReference.cache
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers.Vsix\obj\Debug\EFCore.Analyzers.Vsix.csproj.CoreCompileInputs.cache
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers.Vsix\obj\Debug\EFCore.Analyzers.dll
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers.Vsix\obj\Debug\EFCore.Analyzers.pdb
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers.Vsix\obj\Debug\extension.vsixmanifest

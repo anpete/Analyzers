@@ -1,0 +1,13 @@
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers\obj\Debug\netstandard1.3\EFCore.Analyzers.Resources.resources
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers\obj\Debug\netstandard1.3\EFCore.Analyzers.csproj.GenerateResource.Cache
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers\obj\Debug\netstandard1.3\EFCore.Analyzers.csproj.CoreCompileInputs.cache
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers\obj\Debug\netstandard1.3\EFCore.Analyzers.AssemblyInfoInputs.cache
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers\obj\Debug\netstandard1.3\EFCore.Analyzers.AssemblyInfo.cs
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers\bin\Debug\netstandard1.3\tools\install.ps1
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers\bin\Debug\netstandard1.3\tools\uninstall.ps1
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers\bin\Debug\netstandard1.3\EFCore.Analyzers.deps.json
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers\bin\Debug\netstandard1.3\EFCore.Analyzers.dll
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers\bin\Debug\netstandard1.3\EFCore.Analyzers.pdb
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers\obj\Debug\netstandard1.3\EFCore.Analyzers.csprojResolveAssemblyReference.cache
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers\obj\Debug\netstandard1.3\EFCore.Analyzers.dll
+C:\dev\github\anpete\EFCore.Analyzers\EFCore.Analyzers\EFCore.Analyzers\obj\Debug\netstandard1.3\EFCore.Analyzers.pdb
